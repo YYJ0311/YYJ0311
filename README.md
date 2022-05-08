@@ -1,6 +1,15 @@
-### Hi there 👋
+<div align=center>
+  <h2> Hi there 👋 I'm YoungJoon :smiley:</h2>
 
-<!--
+<h3>I'm currently learning <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>, <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"/>, <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></h3>
+<br>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YYJ0311&layout=compact)
+
+</div>
+
+
+  <!--
 **YYJ0311/YYJ0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
