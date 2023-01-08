@@ -7,11 +7,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>, 
 <img src="https://img.shields.io/badge/kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/>, 
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=aws&logoColor=white">, 
-<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">,
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"></h3>
 <br>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YYJ0311&layout=compact)
 
 </div>
 
